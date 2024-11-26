@@ -1,8 +1,8 @@
 autopilot.py<br />
-Simple CARLA code to spawn desired city, random vehicle in random place in the map (after positioning spectator's viewpoint in the same place) and set the vehicle on a simple autopilot course.
+Simple CARLA code to test the first simulation. The code calls to spawn desired city, random vehicle in random place in the map (after positioning spectator's viewpoint in the same place) and set the vehicle on a simple autopilot course.
 
 camera_popup_autopilot.py<br />
-Videos used to set up Carla and its components as well as run the first Simulation. In Town02, a vehicle is spawned on a random spawn point on the map and the spectator is spawned on top of it. A camera is set
+Videos used to set up Carla and its components. In Town02, a vehicle is spawned on a random spawn point on the map and the spectator is spawned on top of it. A camera is set
 on the car and a function is implemented where the car can snap a screenshot of what it sees at any given moment on command (Button R on keyboard), image popping up in a new window as it does. The car follows 
 along the roads on the map, set on autopilot.<br />
 References:<br />
