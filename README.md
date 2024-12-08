@@ -10,7 +10,7 @@ https://youtu.be/jIK9sanumuU?si=yo2jnGU-uBDmStN8<br />
 https://youtu.be/zZ8s_qrKYGE?si=SEPAg7VhxovqVnzF<br />
 https://youtu.be/ATNNdKCqHPA?si=bB_g6Z-iDu1L8aZ7<br />
 
-image_stream_autopilot.py<br />
+image_stream_autopilot.py (image_stream_new.py is the upgraded version now)<br />
 In Town02, the spectator can spawn on any random point on the map every execution, and the vehicle will spawn upon them in the same way as the previous codes. From there, a camera is attached to the
 vehicle that takes input from what the car sees in real time as the car travels in autopilot, and saves the input in png form in the specified folder in the disk.<br />
 References:<br />
